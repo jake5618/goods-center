@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.api;
 
 import com.alibaba.cola.dto.MultiResponse;
@@ -12,3 +13,4 @@ public interface CustomerServiceI {
 
     MultiResponse<CustomerDTO> listByName(CustomerListByNameQry customerListByNameQry);
 }
+*/

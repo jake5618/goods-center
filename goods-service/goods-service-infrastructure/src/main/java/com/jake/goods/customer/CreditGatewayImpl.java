@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.customer;
 
 import com.jake.goods.domain.customer.Credit;
@@ -8,3 +9,4 @@ public class CreditGatewayImpl implements CreditGateway {
       return null;
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.customer.executor.query;
 
 import com.alibaba.cola.dto.MultiResponse;
@@ -18,3 +19,4 @@ public class CustomerListByNameQryExe{
         return MultiResponse.of(customerDTOList);
     }
 }
+*/

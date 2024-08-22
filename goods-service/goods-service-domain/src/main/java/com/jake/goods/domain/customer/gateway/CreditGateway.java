@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.domain.customer.gateway;
 
 import com.jake.goods.domain.customer.Credit;
@@ -6,3 +7,4 @@ import com.jake.goods.domain.customer.Credit;
 public interface CreditGateway {
     Credit getCredit(String customerId);
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.customer;
 
 import com.jake.goods.domain.customer.Customer;
@@ -17,3 +18,4 @@ public class CustomerGatewayImpl implements CustomerGateway {
       return null;
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.customer;
 
 import com.alibaba.cola.dto.MultiResponse;
@@ -35,4 +36,4 @@ public class CustomerServiceImpl implements CustomerServiceI {
         return customerListByNameQryExe.execute(customerListByNameQry);
     }
 
-}
+}*/

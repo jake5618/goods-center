@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.test;
 
 import com.alibaba.cola.dto.Response;
@@ -13,11 +14,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+*/
 /**
  * This is for integration test.
  *
  * Created by fulan.zjf on 2017/11/29.
- */
+ *//*
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class CustomerServiceTest {
@@ -61,3 +64,4 @@ public class CustomerServiceTest {
         Assert.assertEquals(ErrorCode.B_CUSTOMER_companyNameConflict.getErrCode(), response.getErrCode());
     }
 }
+*/

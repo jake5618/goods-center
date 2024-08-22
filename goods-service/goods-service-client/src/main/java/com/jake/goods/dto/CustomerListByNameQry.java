@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.dto;
 
 import com.alibaba.cola.dto.Query;
@@ -7,3 +8,4 @@ import lombok.Data;
 public class CustomerListByNameQry extends Query{
    private String name;
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.jake.goods.domain.customer;
 
 import com.alibaba.cola.domain.Entity;
@@ -36,3 +37,4 @@ public class Customer{
 
     }
 }
+*/
